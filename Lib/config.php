@@ -1,9 +1,9 @@
 <?php
 
 $configVars = array(
-    'database_dsn'  => 'mysql:dbname=epiz_32982425_products;host=sql111.epizy.com',
-    'database_user' => 'epiz_32982425',
-    'database_pass' => 'z9vx4yyeVStDKqa'
+    'database_dsn'  => 'mysql:dbname=if0_36771348_products;host=sql310.infinityfree.com',
+    'database_user' => 'if0_36771348',
+    'database_pass' => '8cu3dgnTsmx'
 );
 
 return $configVars;
